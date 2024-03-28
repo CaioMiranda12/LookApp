@@ -18,11 +18,11 @@ const SignUp = () => {
 
       <Spacer size="50px" />
       <Button block>
-        <Text color="light">SignUp my account</Text>
+        <Text color="light">Create new account</Text>
       </Button>
       <Spacer size="20px" />
       <Text underline onPress={() => alert('teste')}>
-        Create new account
+        Back to signIn
       </Text>
     </Box>
   );
