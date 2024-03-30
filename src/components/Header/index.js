@@ -10,7 +10,7 @@ const Header = ({title}) => {
       <StatusBar barStyle="dark-content" />
       <Box
         fluid
-        height="100px"
+        height="80px"
         justify="center"
         border={`1px solid ${colors.muted}50`}>
         <SafeAreaView
